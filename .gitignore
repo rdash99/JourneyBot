@@ -6,3 +6,6 @@
 /allowed_users.txt
 .DS_Store
 *.pyc
+custom containers/NAI/nai.yaml
+custom containers/NAI/nai.vae.pt
+custom containers/NAI/nai.ckpt
